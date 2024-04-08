@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, World! 👋
+
+- 🙂 I'm a curious Computer Science student at PUC Minas
+- 🔨 I have experience in Data Science, Web (front and backend) and Mobile Development
+- 🎯 I'm currently aiming Kotlin and Rust
+- 📨 Do not hesitate to contact me via [email](mailto:leonardobbrandao@hotmail.com)
+
+  ##
+  Soon you will be able to check out my blog.. for now, take a look here to follow me
+
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leonardo-brand%C3%A3o-118aa4211/)
 
 <!--
 **lbrandaao/lbrandaao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
